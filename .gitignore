@@ -1,0 +1,21 @@
+# Environment variables (Sensitive tokens)
+.env
+*.env
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Discloud temporary archive
+bot_discloud.zip
+discloud.config
+
+# OS / Editor files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
